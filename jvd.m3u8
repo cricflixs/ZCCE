@@ -1,0 +1,375 @@
+{
+  "data": [
+    {
+      "id": "ipelh",
+      "tittle": "HINDI-HD",
+      "language": "Hindi",
+      "channel_logo": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e6371d211737153.6729051b9c28e.jpg",
+      "cookie": "__hdnea__=st=1779099657~exp=1779121257~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=9a6130fc84799488b63bbb8e8b905aeb05b6e49d72af763b16ae9a78154b1941",
+      "mpdLink": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
+      "clearkey": {
+        "keyId": "400131994b445d8c8817202248760fda",
+        "key": "2d56cb6f07a75b9aff165d534ae2bfc4"
+      }
+    },
+    {
+      "id": "skygo3",
+      "tittle": "SKY NZ - ENGLISH",
+      "cookie": "hdntl=exp=1779611161~acl=/*~id=76d3cf88-ffc3-413a-98ea-5139b26ca05c~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0NzkxJmVpZD05NjE1Mzkmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=c0e0e486d7d98eb5f95652cefb3be57d76b1152beaa8d82adf990f73d6a25cc5",
+      "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2-A-eGjmcQvjgKrg9b-bl46Cwo7RFZ2kW1E5qXbZVw&s",
+      "token": "",
+      "mpdLink": "https://dice-live-oc.akamaized.net/dash/live/2093717/219028-321030/manifest-d.mpd",
+      "clearkey": {
+        "keyId": "2e2636daa74141b68cc14882ea3ff82b",
+        "key": "0961f48287324adbb4b7ff3c9d82b3c9"
+      }
+    },
+    {
+      "id": "nzsky",
+      "tittle": "SKY-NZ",
+      "language": "English",
+      "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIL8rUDe1P4HAJc47Jf7OfYPlwlZiGC66pCtdg5wY-AA&s=10",
+      "mpdLink": "https://dice-live-oc.akamaized.net/dash/live/2093715/219027-321028/manifest-d.mpd",
+      "cookie": "hdntl=exp=1779288067~acl=/*~id=bc0df595-e886-4891-a3fa-62c9b7c5f5d8~data=hdntl,aXA9NTguNjkuMjA0LjYzJmV4cD0xNzc5MjAxNjk0JmVpZD05Mzk1MjYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9b7d41eeb4c51ee475487c96ec7f1c3905aef1fb993c2950ec0674d85493f0dc",
+      "clearkey": {
+        "keyId": "708a98b352bd4418a73a028edd84da8f",
+        "key": "b1fa5c2bca4c4b57b924b748564532cb"
+      }
+    },
+    {
+      "id": "sk4k",
+      "tittle": "ENGLISH-UHD",
+      "language": "English",
+      "channel_logo": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e6371d211737153.6729051b9c28e.jpg",
+      "mpdLink": "https://dice-live-oc.akamaized.net/dash/live/2093666/294921-318514/manifest-d.mpd",
+      "cookie": "hdntl=exp=1779876402~acl=%2F*~id=1848ec4c-1940-4ed2-83cf-04fe245aa7b6~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMzImZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6c7d90843d2be2a7fb6a44feae9631b96d60f37b53a6a4732c4b56f73adc1bae",
+      "clearkey": {
+        "keyId": "4d346b1d1ae64d4a800409cffa14983e",
+        "key": "208c972bd2da4359ac94e6944fe378b6"
+      }
+    },
+    {
+      "id": "kayo2",
+      "tittle": "HINDI-50FPS",
+      "language": "Hindi",
+      "channel_logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/cc/39/cecc3958-d02b-dae0-3e76-c8e46aca950e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/256x256bb.jpg",
+      "mpdLink": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/58e3b017d11a40d684bfdd4e93d1f004/index.mpd",
+      "cookie": "__hdnea__=st=1777098033~exp=1777119633~acl=/bpk-tv/Star_Sports_HD2_BTS/output/*~hmac=265250942f8019bccea5ab07b4e7bd763920d6100bcfb030a900b36ed1f9a617",
+      "clearkey": {
+        "keyId": "ecc68c7bc91756a190dcd7fd0c12cefc",
+        "key": "73e68b8b7409b6e603ecc67a44918175"
+      }
+    },
+    {
+      "id": "skygo1",
+      "tittle": "ENGLISH-HD",
+      "language": "English",
+      "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqvNjCRboUUfmXQfPU5OPUmUysMJx-tmiG7nGNGjFGw&s=10",
+      "mpdLink": "https://dice-live-oc.akamaized.net/dash/live/2093710/219026-321025/manifest-d.mpd",
+      "cookie": "hdntl=exp=1779964324~acl=%2f*~id=9a62c341-f5b7-4e27-bcc0-0d2e4cf56d19~data=hdntl,aXA9MzguMTM3LjUwLjg0JmV4cD0xNzc5ODc3OTUzJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=edbd1435954e4efc123ba6005840759c70409aa19c4cd6f965657bff7cfffa39",
+      "clearkey": {
+        "keyId": "aefc2c8d1c8840f1b6981f856c9269ba",
+        "key": "cf8ea114c45b4d6596b2748258ab74d6"
+      }
+    },
+    {
+      "id": "skysel",
+      "tittle": "SKY SELECT",
+      "language": "English",
+      "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGENpSoR1S0ESNilBnpEL-BDj1hzPzuU3RulqFLjPRQ&s=10",
+      "mpdLink": "https://dice-live-oc.akamaized.net/dash/live/2093719/219037-321031/manifest-d.mpd",
+      "cookie": "hdntl=exp=1779698206~acl=%2F*~id=dcd4e583-c8ac-4d3f-a73c-589fa0155dba~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzNiZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f1ef132b1820605a0a6aafaddbbf6cd352b20d30ab0a706335b2d8b77f23dd7",
+      "clearkey": {
+        "keyId": "01d02c97d1c949f9877acd230dcaa56d",
+        "key": "708410b8bf1f4e998931183e8fab5d1e"
+      }
+    },
+    {
+      "id": "skyo",
+      "tittle": "KAYO HINDI",
+      "language": "Hindi",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESHJiX4h_lSPsfkcLZwSvPW3npLx170LaRA&s",
+      "token": "",
+      "mpdLink": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/38970a6e3f6f42b5a0ef07ad51a68d0c/index.mpd?start=2026-05-29T23%3A50%3A00%2B10%3A00&end=2026-05-30T05%3A00%3A00%2B10%3A00&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODAxNDkwMzcsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjo0LCJwYXRoIjoiOTBhZWI1MjM5MzI3NDJmZDk5NmQ3ZjUwNTczOTg3Njg2MjE1ZTI5ZiIsInNzaWQiOiI1ZWIzZjVjYy04ZGVmLTQxZDMtODNmYi0yYzQzZDk0OTFhNzEta2F5by1yb290IiwicHJvdG8iOiJkYXNoIiwiZ2VvIjoiYXUiLCJhc24iOlsiNzU0NSJdLCJ1YSI6Ijk2NDY1YWMwNGQ4OWVkNWVkZWY1YjIzZDNmNjM3ZTRiMTFhY2NmMGEiLCJpYXQiOjE3ODAwNjI2Mzd9.t_b8GGRW-qvtwGdVRT8TUU5y9vjICKbR-dVouEisnwM",
+      "clearkey": {
+        "keyId": "f1f97a734b1752ae9c3639310b105278",
+        "key": "57e0135e10a8ed3246b8306ada268954"
+      }
+    },
+    {
+      "id": "fxcricket",
+      "tittle": "FOX CRICKET",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGLWHiqoOtFOJIx71EdUTPCxVmmCMHB5cDeBWhC71kg&s=10",
+      "token": "",
+      "mpdLink": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+      "clearkey": {
+        "keyId": "01c9bbf8137e58378a5ead514998a7b4",
+        "key": "fb01e61809e80e5e93a889cd31daab22"
+      }
+    },
+    {
+      "id": "ipl26h2",
+      "tittle": "HINDI",
+      "language": "Hindi",
+      "channel_logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/cc/39/cecc3958-d02b-dae0-3e76-c8e46aca950e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/256x256bb.jpg",
+      "mpdLink": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "clearkey": {
+        "keyId": "8ea9b607549252068e260a5f4d7dd321",
+        "key": "350c0aaffedf51cc1502e9543c7c885e"
+      }
+    },
+    {
+      "id": "ipl26t2",
+      "tittle": "TAMIL",
+      "language": "Tamil",
+      "channel_logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/cc/39/cecc3958-d02b-dae0-3e76-c8e46aca950e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/256x256bb.jpg",
+      "mpdLink": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/output/index.mpd",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "clearkey": {
+        "keyId": "3c1b335c4bb858a7a6ac5a883d898a09",
+        "key": "6eeff4302a7d19befd43c6b7b5fac268"
+      }
+    },
+    {
+      "id": "ipl26te",
+      "tittle": "TELUGU",
+      "language": "Telugu",
+      "channel_logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/cc/39/cecc3958-d02b-dae0-3e76-c8e46aca950e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/256x256bb.jpg",
+      "mpdLink": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "clearkey": {
+        "keyId": "49e84b9edfd85379b90c81b7d2d3d2bf",
+        "key": "19c82d3ff094fa06af95820a1572ecb5"
+      }
+    },
+    {
+      "id": "tntuk1",
+      "tittle": "TNT Sports 1",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+      "clearkey": {
+        "keyId": "294b5761cefc22d0c6312939e13d8278",
+        "key": "52148f1042d238849f0a7813f1da8a7b ni"
+      }
+    },
+    {
+      "id": "tntsp2",
+      "tittle": "TNT Sports 2",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+      "clearkey": {
+        "keyId": "9f51f3dc6313ac8bc668e2d9d1c04dfa",
+        "key": "74bc63e5a193454a91ca494975db33f9"
+      }
+    },
+    {
+      "id": "tntsp3",
+      "tittle": "TNT Sports 3",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+      "clearkey": {
+        "keyId": "a93c1cbfdccd23233bac13540c693e7f",
+        "key": "2f6ab2e6693eb847eff3c9da8f9d01fc"
+      }
+    },
+    {
+      "id": "willow",
+      "tittle": "WILLOW SPORTS",
+      "cookie": "__hdnea__=st=1776333636~exp=1776355236~acl=/*~hmac=04d64b5e89d37d560d24c4971f9865e90d38198ae5f3a434054c1d5849d500fb",
+      "channel_logo": "https://play-lh.googleusercontent.com/f5_w5_hXyQUd0eBgavdNY96Z7V76DcyuKSFO26Z57DPFiQDePmaRrK6ijfhNgmf3Mkc",
+      "language": "ENGLISH",
+      "mpdLink": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ap100z7ju8/out/v1/bd83499afa5c4526a20e8f1813a9ac77/cenc-sd.mpd",
+      "clearkey": {
+        "keyId": "e59d71527da753e98bccaeba761ed23e",
+        "key": "141219a8b44c2be17af967fb909ab2eb"
+      }
+    },
+    {
+      "id": "sknz",
+      "tittle": "SKY NZ",
+      "cookie": "hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://dice-live-oc.akamaized.net/dash/live/2093749/219026-314033/manifest-d.mpd",
+      "clearkey": {
+        "keyId": "aefc2c8d1c8840f1b6981f856c9269ba",
+        "img": "https://i.ibb.co/QQYDNCH/sktechposter.jpg",
+        "key": "cf8ea114c45b4d6596b2748258ab74d6"
+      }
+    },
+    {
+      "id": "willow2",
+      "tittle": "Willow",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "https://i.ibb.co/dsDLMPDD/wsp.jpg",
+      "mpdLink": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/l58o2adfeu/out/v1/e5b078607e7740849585b052c2b65b0b/cenc.mpd",
+      "clearkey": {
+        "keyId": "4a29be2e831b734e3fe5f2613c5abb1d",
+        "key": "7430374ee54b5318736fbd4455779c11"
+      }
+    },
+    {
+      "id": "sknz3",
+      "tittle": "SKY NZ",
+      "token": "",
+      "cookie": "hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496",
+      "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpqHs0XMHgLKxyjFvEdGd_ZWMuJD1PCtNeUtp37aaORg&s=10",
+      "mpdLink": "https://dice-live-oc.akamaized.net/dash/live/2093719/219037-321031/manifest-d.mpd",
+      "clearkey": {
+        "keyId": "2e2636daa74141b68cc14882ea3ff82b",
+        "key": "0961f48287324adbb4b7ff3c9d82b3c9"
+      }
+    },
+    {
+      "id": "la1",
+      "tittle": "LA 1🇪🇦",
+      "token": "",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "mpdLink": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+      "clearkey": {
+        "keyId": "fd86dde0ae3e14ff51c8fc8f248a50db",
+        "key": "d106ae78b0893da2e4393ece99420baa"
+      }
+    },
+    {
+      "id": "vix",
+      "tittle": "VIX TUDN",
+      "token": "",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "mpdLink": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/khsyiltgaz/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+      "clearkey": {
+        "keyId": "f9f400dbdf686f03db23db9dd98876fa",
+        "key": "868d7adb70555ac5fc9cbb6b7fa6e47c"
+      }
+    },
+    {
+      "id": "cbs",
+      "tittle": "PARAMOUNT+",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8rbm0uwsbr/out/v1/86d7169ffdff4df6b28dfdb4b49bcfb3/106ca8fc-7790-47e2-b541-1aeccc80282d-cenc.mpd",
+      "clearkey": {
+        "keyId": "6a71d7af70eaeb1b018ded7640a26562",
+        "key": "5d7f73b42c19d3bb68c55d6ee2676b7d"
+      }
+    },
+    {
+      "id": "wceng",
+      "tittle": "PRIME ENGLISH",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/ff5c6c0ikd/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd",
+      "clearkey": {
+        "keyId": "f61c80b95c8dc7af075a839ebd584b34",
+        "key": "80b53f92abc0865a244e8d68810fd4bb"
+      }
+    },
+    {
+      "id": "nzwi",
+      "tittle": "PRIME ENGLISH",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "https://www.citypng.com/public/uploads/preview/instagram-live-button-with-play-icon-701751695136662xoibdy1wui.png",
+      "token": "",
+      "mpdLink": "https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/1xsggbtjku/out/v1/bfd93216daf6417298bfcc7d3015d823/cenc.mpd",
+      "clearkey": {
+        "keyId": "2f5ed0dd0a0ca671dee3948dbbe023d4",
+        "key": "7039b2570d5d429c7f4a7a4058ba5135"
+      }
+    },
+    {
+      "id": "inw",
+      "tittle": "Willow Cricbuzz",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gh7dw2xpii/out/v1/21418a2f44a34419ab5cd0d4528dde8c/cenc.mpd",
+      "clearkey": {
+        "keyId": "f91c3313ec85440cfecdf2c1cbfeecd4",
+        "key": "c08585656e5dd809aee4753f0c4cc0aa"
+      }
+    },
+    {
+      "id": "indslw",
+      "tittle": "STAR SPORTS",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "https://i.ibb.co/5hTPC9hh/wl.jp",
+      "mpdLink": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd",
+      "clearkey": {
+        "keyId": "400131994b445d8c8817202248760fda",
+        "key": "2d56cb6f07a75b9aff165d534ae2bfc4"
+      }
+    },
+    {
+      "id": "shoqott",
+      "tittle": "ShOQ OTT",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
+      "clearkey": {
+        "keyId": "a6dfc4f17d70d8d07639659193f03b25",
+        "key": "893eacfabe386144b81733d622a7ad17"
+      }
+    },
+    {
+      "id": "banvwi",
+      "tittle": "Fancode",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+      "clearkey": {
+        "keyId": "065051b99bf5cf8d9a3bde5cbde6aaf9",
+        "key": "214bd176832872339ce184338320f9a2"
+      }
+    },
+    {
+      "id": "tha",
+      "tittle": "WILLOW CRICBUZZ",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ldbb6va4a3/out/v1/d8efc032813045c79fada83538d693d8/cenc.mpd",
+      "clearkey": {
+        "keyId": "8b302fc6f26bd50ced85dbd13f4fcad5",
+        "key": "88d477c03ca07f1ea6a0c1bbea992f66"
+      }
+    },
+    {
+      "id": "zim",
+      "tittle": "Fancode",
+      "cookie": "__hdnea__=st=1775913572~exp=1775935172~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d02e99b7e5276d32420c2c1b321ee5fa276d08c2a3665f8ffaca6920f44b0cb8",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+      "clearkey": {
+        "keyId": "7e9239c1982d984a002df3ed049d0756",
+        "key": "1b8a17598129a3618535c8fb05f103fe"
+      }
+    },
+    {
+      "id": "dynamic_example",
+      "tittle": "Dynamic Channel",
+      "cookie": "",
+      "channel_logo": "",
+      "token": "",
+      "mpdLink": "https://example.com/manifest.mpd",
+      "clearkey": {
+        "keyId": "dummy",
+        "key": "dummy"
+      }
+    }
+  ]
+}
